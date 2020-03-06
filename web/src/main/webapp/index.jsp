@@ -17,6 +17,6 @@
   </p>
   <p1>
     Just adding another line in this project.
-  </p2>
+  </p1>
 </body>
 </html>
