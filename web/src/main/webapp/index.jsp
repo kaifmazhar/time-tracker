@@ -15,5 +15,8 @@
   <p>
     This is a very simple example web page on a JSP.
   </p>
+  <p1>
+    Just adding another line in this project.
+  </p2>
 </body>
 </html>
